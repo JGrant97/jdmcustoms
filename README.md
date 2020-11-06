@@ -3,4 +3,4 @@ car catalogue web application for JDM cars contained backend database to store a
 
 --Login Details---
 username: test2@test.com
-password: @TEst
+password: @Test
